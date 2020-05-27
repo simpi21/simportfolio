@@ -1,0 +1,9 @@
+# Folders
+.idea/
+node_modules/
+assets/css/
+assets/js/
+vendor/
+
+# Files
+**.map
