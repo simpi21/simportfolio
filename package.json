@@ -57,6 +57,7 @@
   "shapla-modal": "^1.0.3",
   "shapla-notifications": "^1.0.3",
   "shapla-search-form": "^1.0.1",
+  "shapla-side-navigation": "^1.0.1",
   "shapla-spinner": "^1.0.2",
   "shapla-tabs": "^1.0.1",
   "vue": "^2.5.22",
